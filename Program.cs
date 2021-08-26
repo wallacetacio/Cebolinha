@@ -12,6 +12,7 @@ namespace Cebolinha
             .Replace("r", "l")
             .Replace("R","L");
 
+            Console.WriteLine("O Cebolinha repetiu:");
             Console.WriteLine(cebolinhaFalando);
         }
     }
